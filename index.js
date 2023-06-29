@@ -15,3 +15,4 @@ let num14=14;
 let num15=15;
 let num16=16;
 let num17=17;
+let num18=18;
